@@ -1,4 +1,4 @@
-# QA 4기 최종 프로젝트
+# Elice LXP API Test Automation with CI & Load Analysis
 
 엘리스 LXP 플랫폼의 주요 기능을 API 관점에서 검증하고, 제공된 부하 테스트 결과를 분석하기 위한 QA 프로젝트입니다.
 
